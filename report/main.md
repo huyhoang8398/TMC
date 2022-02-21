@@ -1,5 +1,5 @@
 ---
-title: "TMC Project"
+title: "TMC Project RPI"
 author: \textbf{DO Duy Huy Hoang} \newline
         \newline
         \textit{University of Limoges} \newline 
