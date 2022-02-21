@@ -1,2 +1,0 @@
-proc            /proc           proc    defaults          0       0
-10.20.30.1:/home/nlag/RASPI/boot /boot nfs rsize=8192,wsize=8192,timeo=14,intr,noauto,x-systemd.automount 0 0
